@@ -1,8 +1,21 @@
-![Cover](https://github.com/nephcode/test-solidity/blob/main/images/header-solidity.png)
+![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/alyra/readme-alyra-01-header.png)
 
-# SOLIDITY TEST ALYRA
-My Personal test for Alyra Solidity Course
+# ALYRA : ETHEREUM
+Alyra Ethereum Course
+
+## USE REMIX IDE
+please go to remix.ethereum.com
+
+## INSTALL
+
+- Metamask
+- visual Code
+- remix
+- geth
 
 
 
-![Cover](https://github.com/nephcode/test-solidity/blob/main/images/footer-solidity.png)
+
+
+
+![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/alyra/readme-alyra-01-footer.png)
