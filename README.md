@@ -11,7 +11,7 @@ please go to remix.ethereum.com
 - Metamask
 - visual Code
 - remix
-- geth
+- geth 1.17
 
 
 
