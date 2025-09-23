@@ -1,21 +1,18 @@
-![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/alyra/readme-alyra-01-header.png)
+![Header](images/githubReadmeHeader.png)
+
 
 # ALYRA : ETHEREUM
 Alyra Ethereum Course
 
-## USE REMIX IDE
-please go to remix.ethereum.com
+## USE REMIX IDE 
+Please go to remix.ethereum.com
 
 ## INSTALL
 
 - Metamask
-- visual Code
+- Visual code
 - remix
-- geth 1.17
+- geth `latest`
 
+![Footer](images/githubReadmeFooter.png)
 
-
-
-
-
-![Cover](https://kpkfzczpavanzocxzyta.supabase.co/storage/v1/object/public/alyra/readme-alyra-01-footer.png)
