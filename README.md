@@ -1,4 +1,4 @@
-![Header](images/githubReadmeHeader.png)
+![header](https://github.com/nephcode/alyra-01-ethereum/blob/main/.github/images/githubReadmeHeader.png)
 
 
 # ALYRA : ETHEREUM
@@ -14,5 +14,4 @@ Please go to remix.ethereum.com
 - remix
 - geth `latest`
 
-![Footer](images/githubReadmeFooter.png)
-
+![footer](https://github.com/nephcode/alyra-01-ethereum/blob/main/.github/images/githubReadmeFooter.png)
