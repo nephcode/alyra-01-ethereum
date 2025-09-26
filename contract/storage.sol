@@ -1,0 +1,21 @@
+/*  <!-- ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵  3--> */
+/*  <!-- ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ 42 ∴ +-+-+-+-+-+-+-+-+ 42 ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ 3--> */
+/*  <!- ƸӜƷ ∴∵ ALYRA  ƸӜƷ ∵ -> |N|E|P|H|C|O|D|E| <!-- ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ  0--> */
+/*  <!-- ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ --> +-+-+-+-+-+-+-+-+ ∵ ƸӜƷ ∴∵ ƸӜƷ 42 ƸӜƷ ∴∵  1--> */
+/*  <!----- ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴∵ ƸӜƷ ∴ --> */
+
+// SPDX-License-Identifier: MIT 
+pragma solidity >=0.8.0 <0.9.0;
+ 
+contract Storage {
+    
+    uint256 number;
+
+    function store(uint256 num) public {
+        number = num;
+    }
+
+    function retrieve() public view returns (uint256){
+        return number;
+    }
+}
